@@ -1,0 +1,50 @@
+.tab-background {
+	background-color: rgba(0, 0, 0, 0) !important;
+	border: none !important;
+	box-shadow: none !important;
+}
+
+.tab-label {
+	color: white !important;
+}
+
+#navigator-toolbox {
+	background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#urlbar {
+	background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#main-window {
+	background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#titlebar {
+	display: none !important;
+}
+
+#TabsToolbar {
+	background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#back-button,
+#forward-button {
+	background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#reload-button {
+	background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#search-container {
+	background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#urlbar-input {
+	background-color: transparent !important;
+}
+
+#nav-bar {
+	background-color: rgba(0, 0, 0, 0) !important;
+}
